@@ -1,0 +1,100 @@
+html {
+    font-family: 'Lucida Sans Unicode', sans-serif;
+    background-color: grey;
+}
+
+body {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+    background-image: url("../img/panoramica.jpg");
+    background-repeat: no-repeat;
+    background-position: center top;
+    padding-top: 170px;
+    color: mediumseagreen;
+}
+
+h2 {
+    color: limegreen;
+    margin-bottom: 0px;
+    margin-top: 5px;
+}
+
+h3 {
+    color: peru;
+}
+
+img {
+    margin: auto;
+}
+
+.container {
+    display: flex;
+}
+
+article {
+    border: #d9d9d9 1px solid;
+    padding: 15px;
+    float: left;
+}
+
+hr {
+    margin-top: 0px;
+    border-top: 1px;
+}
+
+ul {
+    float: left;
+    margin-right: 20px;
+}
+
+li {
+    list-style: none;
+    background-image: linear-gradient(white, #cbe783);
+    text-align: center;
+    margin: 5px;
+    width: 120px;
+    height: 40px;
+}
+
+li:hover {
+    background-image: linear-gradient(white, #b7de54);
+}
+
+#selected {
+    background-image: linear-gradient(white, #e5cdb2);
+}
+
+#selected:hover {
+    background-image: linear-gradient(white, #d9b58c);
+}
+
+.aMenu{
+    text-decoration: none;
+    color: black;
+}
+
+#naranja {
+    color: peru;
+}
+
+.letraLi {
+    padding-top: 8px;
+}
+
+footer {
+    text-align: center;
+    color: darkgrey;
+}
+
+.aFooter {
+    color: darkgrey;
+}
