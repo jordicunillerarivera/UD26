@@ -1,0 +1,34 @@
+html {
+    font-family: Arial, Verdana, sans-serif;
+    background-color: white;
+    text-indent: 5px;
+}
+
+body {
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 3%;
+    padding-bottom: 5px;
+    background-color: wheat;
+}
+
+h1 {
+    margin: 0;
+    background-color: peru;
+    font-size: x-large;
+}
+
+h2 {
+    color: royalblue;
+    font-size: xx-large;
+    font-style: italic;
+}
+
+.subtitulo {
+    font-weight: bold;
+}
+
+ul{
+    text-indent: 0px;
+    list-style-type: none;
+}
