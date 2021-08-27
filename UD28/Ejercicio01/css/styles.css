@@ -1,0 +1,19 @@
+html {
+    font-family: "Brush Script MT", "Lucida Handwriting", cursive;
+   
+    background-color: white;
+}
+
+body {
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 3%;
+    padding: 1%;
+    padding-right: 2%;
+    padding-left: 2%;
+    background-color: #e6ffff;
+}
+
+h1 {
+    margin: 0;
+}
