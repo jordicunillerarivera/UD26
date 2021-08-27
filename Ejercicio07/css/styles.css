@@ -1,0 +1,40 @@
+html {
+    font-family: 'Lucida Sans Unicode', sans-serif;
+}
+
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: limegreen;
+    margin-bottom: 0px;
+    margin-top: 5px;
+}
+
+h3 {
+    color: peru;
+}
+
+#verde {
+    color: mediumseagreen;
+}
+
+#naranja {
+    color: peru;
+}
+
+div {
+    border: #d9d9d9 1px solid;
+    padding: 15px;
+}
+
+hr {
+    margin-top: 0px;
+    border-top: 1px;
+}
