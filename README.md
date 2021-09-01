@@ -1,5 +1,5 @@
 # UD28
- Repositorio para las actividades de la UD28
+ Repositorio para las actividades de la UD26
  
  Ejercicios:
 
